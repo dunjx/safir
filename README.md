@@ -8,6 +8,7 @@
    ## Implementacija
    Projekat će biti implementiran u programskom jeziku **Ruby** .
    
+   ![Ruby Logo](https://github.com/matf-pp2019/safir/blob/master/ruby-logo-png-6.png)
    
    ## Članovi tima:
    
