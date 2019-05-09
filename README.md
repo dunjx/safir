@@ -9,12 +9,12 @@
    centralna simetrija generatora (modela), često korišćene kompozicije osnovnih geometrijskih transformacija, iscrtavanje krivih zadatih formulom, novi modeli... 
    
    (trenutna verzija README fajla nije konačna i menjaće se postepeno tokom razvoja našeg projekta)
-   ![Sketchup Logo](https://github.com/matf-pp2019/safir/blob/master/sketchup-icon-png-28.jpg)
+   ![Sketchup Logo](https://github.com/matf-pp2019/safir/blob/master/logos/sketchup-icon-png-28.jpg)
    
    ## Implementacija
    Projekat će biti implementiran u programskom jeziku **Ruby** .
    
-   ![Ruby Logo](https://github.com/matf-pp2019/safir/blob/master/ruby-logo-png-6.png)
+   ![Ruby Logo](https://github.com/matf-pp2019/safir/blob/master/logos/ruby-logo-png-6.png)
    
    ## Članovi tima:
    * ### Dunja Spasić
